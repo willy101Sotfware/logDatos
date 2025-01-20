@@ -31,10 +31,10 @@ pip install -r requirements.txt
 
 ## Uso
 
-Ejecuta el script principal `Datos.py`:
+Ejecuta el script principal:
 
 ```bash
-python Datos.py
+python procesar_y_guardar.py
 ```
 
 El script procesará el archivo de log y generará:
